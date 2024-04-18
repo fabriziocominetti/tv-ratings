@@ -1,1 +1,4 @@
 *.tsv
+*data/title_basics.csv
+*data/title_episode.csv
+*data/title_ratings.csv
